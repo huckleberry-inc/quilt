@@ -24,7 +24,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@shopify/address-consts": "^4.2.0",
+    "@huckleberry-inc/address-consts": "^4.2.0",
     "@shopify/jest-dom-mocks": "^5.2.0"
   },
   "files": [

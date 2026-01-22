@@ -1,4 +1,8 @@
-import type {Address, FieldName, Country} from '@shopify/address-consts';
+import type {
+  Address,
+  FieldName,
+  Country,
+} from '@huckleberry-inc/address-consts';
 
 import {formatAddress, buildOrderedFields} from './format';
 import {loadCountry, loadCountries} from './loader';

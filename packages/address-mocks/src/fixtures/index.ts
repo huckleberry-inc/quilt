@@ -1,7 +1,7 @@
 import type {
   LoadCountriesResponse,
   LoadCountryResponse,
-} from '@shopify/address-consts';
+} from '@huckleberry-inc/address-consts';
 
 import countryCAFr from './country_ca_fr';
 import countryCAEn from './country_ca_en';

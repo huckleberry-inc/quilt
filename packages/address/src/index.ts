@@ -1,4 +1,4 @@
-export * from '@shopify/address-consts';
+export * from '@huckleberry-inc/address-consts';
 
 export * from './loader';
 export * from './format';

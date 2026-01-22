@@ -2,8 +2,8 @@ import type {
   LoadCountriesResponse,
   LoadCountryResponse,
   ResponseError,
-} from '@shopify/address-consts';
-import {GRAPHQL_ENDPOINT} from '@shopify/address-consts';
+} from '@huckleberry-inc/address-consts';
+import {GRAPHQL_ENDPOINT} from '@huckleberry-inc/address-consts';
 import {fetch} from '@shopify/jest-dom-mocks';
 
 import {fixtures} from './fixtures';

@@ -1,4 +1,8 @@
-import type {Address, Country, FieldName} from '@shopify/address-consts';
+import type {
+  Address,
+  Country,
+  FieldName,
+} from '@huckleberry-inc/address-consts';
 
 import {FIELDS_MAPPING, FIELD_REGEXP, renderLineTemplate} from './utilities';
 
