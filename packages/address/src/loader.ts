@@ -3,12 +3,12 @@ import type {
   LoadCountriesResponse,
   LoadCountryResponse,
   ResponseError,
-} from '@shopify/address-consts';
+} from '@huckleberry-inc/address-consts';
 import {
   GRAPHQL_ENDPOINT,
   HEADERS,
   GraphqlOperationName,
-} from '@shopify/address-consts';
+} from '@huckleberry-inc/address-consts';
 
 import query from './graphqlQuery';
 

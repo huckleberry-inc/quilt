@@ -9,9 +9,10 @@
     "./src/**/*.ts",
     "./src/**/*.tsx"
   ],
+  "exclude": [
+    "./src/**/tests/**"
+  ],
   "references": [
-    {"path": "../address-consts"},
-    {"path": "../address-mocks"},
-    {"path": "../jest-dom-mocks"}
+    {"path": "../address-consts"}
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/address-consts",
+  "name": "@huckleberry-inc/address-consts",
   "version": "4.2.0",
   "license": "MIT",
   "description": "Constants and types relating to `@shopify/address`",
@@ -7,8 +7,7 @@
   "types": "./build/ts/index.d.ts",
   "sideEffects": false,
   "publishConfig": {
-    "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
+    "access": "public"
   },
   "author": "Shopify Inc.",
   "repository": {

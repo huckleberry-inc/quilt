@@ -1,1 +1,0 @@
-export {quiltDataMiddleware} from './middleware';
