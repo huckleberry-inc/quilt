@@ -76,7 +76,7 @@
     "react-dom18": "npm:react-dom@^18.1.0",
     "react18": "npm:react@^18.1.0",
     "rimraf": "^2.6.2",
-    "rollup": "^2.60.1",
+    "rollup": "^2.79.2",
     "rollup-plugin-node-externals": "^2.2.0",
     "typescript": "~5.4.5",
     "yalc": "^1.0.0-pre.50"

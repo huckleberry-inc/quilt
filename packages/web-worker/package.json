@@ -96,16 +96,16 @@
     "babel-loader": "^8.2.0",
     "fs-extra": "^9.0.0",
     "get-port": "^5.1.0",
-    "koa": "^2.11.0",
+    "koa": "^3.0.3",
     "koa-mount": "^4.0.0",
     "koa-static": "^5.0.0",
     "rollup-plugin-copy": "^3.4.0",
-    "webpack": "^5.38.0",
+    "webpack": "^5.94.0",
     "webpack-virtual-modules": "^0.4.3"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0",
-    "webpack": "^5.38.0",
+    "webpack": "^5.94.0",
     "webpack-virtual-modules": "^0.4.3 || ^0.5.0 || ^0.6.0"
   },
   "peerDependenciesMeta": {

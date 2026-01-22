@@ -40,7 +40,7 @@
     "@shopify/react-network": "^5.2.3",
     "@shopify/sewing-kit-koa": "^9.3.1",
     "chalk": "^2.4.2",
-    "koa": "^2.13.4",
+    "koa": "^3.0.3",
     "koa-compose": ">=4.0.0 <5.0.0",
     "koa-mount": "^4.0.0"
   },
@@ -57,7 +57,7 @@
     "react-dom": "^18.1.0",
     "saddle-up": "^0.5.4",
     "setimmediate": "^1.0.5",
-    "webpack": "^5.38.0"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "cross-fetch": ">=3.0.0",
