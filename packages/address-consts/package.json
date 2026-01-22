@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/address-consts",
+  "name": "@huckleberry-inc/address-consts",
   "version": "4.2.0",
   "license": "MIT",
   "description": "Constants and types relating to `@shopify/address`",

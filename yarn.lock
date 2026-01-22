@@ -2517,6 +2517,11 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
+"@shopify/address-consts@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@shopify/address-consts/-/address-consts-4.2.0.tgz#eab5aba5932c9dddfea6c4c0e56bf8ed9f7c1a04"
+  integrity sha512-RzuDGgJbdJC7m5Ms2uhLXT8bllg5dK2YXOEBQjfbUT+wwWvPeTlXxGhwZlQ8QCI/24UIv0a8aPR5mqjXnJzljA==
+
 "@shopify/app-bridge@^2.0.3":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-2.0.3.tgz#ae19a50c5c271d2b37db84901bb0b154af0f9602"
