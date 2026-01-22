@@ -1,6 +1,10 @@
 {
   "name": "@huckleberry-inc/address-consts",
+<<<<<<< HEAD
   "version": "4.2.1",
+=======
+  "version": "4.2.2",
+>>>>>>> c24009a0 (Bump address packages to 4.2.2 and 4.3.2)
   "license": "MIT",
   "description": "Constants and types relating to `@shopify/address`",
   "main": "index.js",
