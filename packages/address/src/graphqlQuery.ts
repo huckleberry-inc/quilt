@@ -1,6 +1,6 @@
 const query = `
 query countries($locale: SupportedLocale!) {
-  countries(locale: $locale) {
+  getCountries(locale: $locale) {
     name
     code
     continent
@@ -34,7 +34,7 @@ query countries($locale: SupportedLocale!) {
 }
 
 query country($countryCode: SupportedCountry!, $locale: SupportedLocale!) {
-  country(countryCode: $countryCode, locale: $locale) {
+  getCountry(countryCode: $countryCode, locale: $locale) {
     name
     code
     continent

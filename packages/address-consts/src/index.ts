@@ -95,8 +95,8 @@ export interface GraphQlError {
 
 export const GRAPHQL_ENDPOINT = 'https://atlas.shopifysvc.com/graphql';
 export enum GraphqlOperationName {
-  Countries = 'countries',
-  Country = 'country',
+  Countries = 'getCountries',
+  Country = 'getCountry',
 }
 
 /* eslint-disable @typescript-eslint/naming-convention */
