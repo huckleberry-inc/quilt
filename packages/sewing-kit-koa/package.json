@@ -30,7 +30,7 @@
     "app-root-path": "^2.1.0",
     "browserslist-useragent": "^4.0.0",
     "fs-extra": "^9.1.0",
-    "koa": "^2.13.4",
+    "koa": "^3.0.3",
     "koa-compose": ">=4.0.0 <5.0.0",
     "koa-mount": "^4.0.0",
     "koa-static": "^5.0.0",
