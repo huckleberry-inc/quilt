@@ -1,6 +1,6 @@
 {
   "name": "@huckleberry-inc/address-consts",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "license": "MIT",
   "description": "Constants and types relating to `@shopify/address`",
   "main": "index.js",
