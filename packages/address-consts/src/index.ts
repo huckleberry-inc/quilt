@@ -93,7 +93,8 @@ export interface GraphQlError {
   extensions?: object;
 }
 
-export const GRAPHQL_ENDPOINT = 'https://atlas.shopifysvc.com/graphql';
+export const GRAPHQL_ENDPOINT =
+  'https://worldwide-server.huckleberry-inc.workers.dev/graphql';
 export enum GraphqlOperationName {
   Countries = 'getCountries',
   Country = 'getCountry',
